@@ -1,0 +1,6 @@
+{
+  "name": "Fichário — IA de Catalogação e Classificação CDD/CDU",
+  "description": "Plataforma inteligente para geração instantânea de fichas catalográficas CIP e classificação bibliográfica CDD e CDU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
